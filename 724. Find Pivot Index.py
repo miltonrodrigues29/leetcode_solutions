@@ -10,3 +10,4 @@ class Solution:
             else:
                 l = l + nums[i]
         return -1
+# ..
